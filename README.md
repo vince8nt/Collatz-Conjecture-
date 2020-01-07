@@ -1,5 +1,5 @@
 # Collatz-Conjecture-
-Computes and analyses the patterns of the Collatz Conjecture.
+Computes and analizes the patterns of the Collatz Conjecture.
 
 The Collatz Conjecture is based around the group of sequences:
 Given an arbitrary integer as the first term,
